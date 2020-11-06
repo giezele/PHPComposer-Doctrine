@@ -1,0 +1,22 @@
+{
+    "name": "giedre/app4",
+    "description": "Super projektas",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "giezele",
+            "email": "giedre.zel@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.7"
+    },
+    "autoload": {
+        "psr-4": { 
+			"Models\\": "src/models"
+		}
+    }
+
+
+}
