@@ -1,6 +1,5 @@
 {
     "name": "giedre/app4",
-    "description": "Super projektas",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -14,9 +13,8 @@
     },
     "autoload": {
         "psr-4": { 
-			"Models\\": "src/models"
+			"Models\\": "src/models/"
 		}
     }
-
 
 }

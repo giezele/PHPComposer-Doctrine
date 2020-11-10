@@ -4,3 +4,6 @@
 - php composer.phar install
 - vendor/bin/doctrine orm:schema-tool:update --force --dump-sql
 - open index.php in the browser
+
+
+- php ../composer.phar dump-autoload

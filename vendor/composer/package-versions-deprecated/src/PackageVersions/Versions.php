@@ -55,7 +55,7 @@ final class Versions
   'symfony/polyfill-php80' => 'v1.20.0@e70aa8b064c5b72d3df2abd5ab1e90464ad009de',
   'symfony/service-contracts' => 'v2.2.0@d15da7ba4957ffb8f1747218be9e1a121fd298a1',
   'symfony/string' => 'v5.1.8@a97573e960303db71be0dd8fda9be3bca5e0feea',
-  'giedre/app4' => '1.0.0+no-version-set@',
+  'giedre/app4' => 'dev-master@9d2f7e829ea1316e65b57019e56e6a306bef803a',
 );
 
     private function __construct()

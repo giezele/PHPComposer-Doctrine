@@ -114,4 +114,4 @@ print("<pre>Add new product: " . "</pre>");
 <hr>
 
 <pre style="display: inline">Once you understood these, you can start working with relations - click</pre>
-<a href="Relations"><pre style="display: inline">here</pre></a><pre style="display: inline"> when you are ready 🔥🔥🔥</pre>
+<a href="relations.php"><pre style="display: inline">here</pre></a><pre style="display: inline"> when you are ready 🔥🔥🔥</pre>
